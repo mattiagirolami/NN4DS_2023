@@ -11,3 +11,5 @@ Saliency Maps provide insights into which features or parts of an input contribu
 
 The repository contains the project's notebook. The project was carried out using the Google Colab platform.
 Here is an image extracted from the corresponding notebook, displaying the original image along with its associated saliency maps.
+
+![Saliency Maps]([https://github.com/tuonome/tuorepository/raw/main/images/logo.png](https://github.com/mattiagirolami/NN4DS_2023/blob/main/image/output.png)https://github.com/mattiagirolami/NN4DS_2023/blob/main/image/output.png)
